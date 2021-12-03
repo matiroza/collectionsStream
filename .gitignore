@@ -1,0 +1,8 @@
+.gradle
+gradle/wrapper/*.jar
+.idea
+build
+*.iml
+count.txt
+most_valuable.txt
+tiv2012.txt
